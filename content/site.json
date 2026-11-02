@@ -1,0 +1,633 @@
+{
+  "pulled_from": "https://casastellare.com",
+  "banner": {
+    "src": "https://casastellare.com/wp-content/uploads/2026/11/BannerThinSubtitledMy.png",
+    "local": "media/uploads/2026/11/BannerThinSubtitledMy.png"
+  },
+  "home": {
+    "intro": "After a long break from processing, we got back in to complete the year with three excellent data sets: The classic M51 galaxy collision with a few small friends surrounding; a high contrast narrowband color SH2-132; and an incredible view of VDB-152, a packed and chaotic nebula field featuring a dark Bok globule in the center. With new AI-based noise, deconvolution, and star masking tools in PixInsight, these set the stage for a great 2023 ahead!",
+    "strips": [
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/set2-1.png",
+        "local": "media/uploads/2022/03/set2-1.png",
+        "title": "Set 2"
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/set6.png",
+        "local": "media/uploads/2022/03/set6.png",
+        "title": "Set 6"
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/set4.png",
+        "local": "media/uploads/2022/03/set4.png",
+        "title": "Set 4"
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/set5.png",
+        "local": "media/uploads/2022/03/set5.png",
+        "title": "Set 5"
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/set3.png",
+        "local": "media/uploads/2022/03/set3.png",
+        "title": "Set 3"
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/set1.png",
+        "local": "media/uploads/2022/03/set1.png",
+        "title": "Set 1"
+      }
+    ],
+    "latest": [
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/12/58-VDB152.jpg",
+        "local": "media/uploads/2022/12/58-VDB152.jpg",
+        "title": "VDB 152"
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/12/59-SH2132.jpg",
+        "local": "media/uploads/2022/12/59-SH2132.jpg",
+        "title": "SH2-132"
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/12/60-M51.jpg",
+        "local": "media/uploads/2022/12/60-M51.jpg",
+        "title": "M51"
+      }
+    ]
+  },
+  "pier1": {
+    "featured": [
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/68-SH2-232Mosaic-1.jpg",
+        "local": "media/uploads/2022/03/68-SH2-232Mosaic-1.jpg",
+        "title": "Sharpless 232 in Auriga",
+        "text": "The diffuse nebula is massive, the biggest in the Auriga nebula complex, but it is very faint and hard to capture. Hundreds of subexposures were used to try to bring out its dusty detail and dim contrast. Only the Hydrogen and Sulphur channels shine; Oxygen contributed to the star colors."
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/69-NGC4631Galaxy.jpg",
+        "local": "media/uploads/2022/03/69-NGC4631Galaxy.jpg",
+        "title": "The Whale Galaxy",
+        "text": "This interesting edge-on galaxy in Canes Venatici looks a bit like a whale with its pup underneath. Of particular note is its off-center starburst region, and it\u2019s a good fit to be number 281 in Arp\u2019s list of unusual galaxies. The nearby colliding Hockey Stick galaxies can be seen in the upper right of this image."
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/70-NGC1499-California-1.jpg",
+        "local": "media/uploads/2022/03/70-NGC1499-California-1.jpg",
+        "title": "The California Nebula in Blue",
+        "text": "This nebula is found just \u2018above\u2019 the Seven Sisters of the Pleiades in Perseus. When processing the almost pure hydrogen glow, image processors must choose which color to make it, and we chose a cooler blue and purple rendering over the traditional pink and red this time."
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/71A-NGC6992-BlueRed-1-e1646430875551.jpg",
+        "local": "media/uploads/2022/03/71A-NGC6992-BlueRed-1-e1646430875551.jpg",
+        "title": "The Eastern Veil in Red & Blue",
+        "text": "Part of a much larger nebulous complex in Cygnus, the Eastern Veil features delicate wisps of glowing hydrogen and oxygen, the remnants of an exploding star that may someday seed a new planetary system with raw ingredients."
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/71B-NGC6992-BlueGold-1-e1646430848638.jpg",
+        "local": "media/uploads/2022/03/71B-NGC6992-BlueGold-1-e1646430848638.jpg",
+        "title": "The Veil Nebula in Blue and Gold",
+        "text": "When choosing narrowband palettes to highlight specific wavelengths, sometimes the traditional choices aren\u2019t necessarily the best. This blend of the Veil jumped out to us with a thin spine of green over the electric blue and mainly gold structures."
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/72-OrionM42-1.jpg",
+        "local": "media/uploads/2022/03/72-OrionM42-1.jpg",
+        "title": "The Orion Nebula",
+        "text": "How did the most famous and easily viewed nebula drop all the way down to number 42 on Charles Messier\u2019s famous list of non-comets? This new view of the classic target shows our sharpest dust features yet."
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/73-M63Galaxy.jpg",
+        "local": "media/uploads/2022/03/73-M63Galaxy.jpg",
+        "title": "The Sunflower Galaxy",
+        "text": "Messier 63, sometimes called the Sunflower Galaxy, is known as a \u2018flocculent\u2019 galaxy, a structure without well defined spiral arms. In these unusual arms, astronomers look for data about star formation."
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/74-NinePanelMosaic-1.jpg",
+        "local": "media/uploads/2022/03/74-NinePanelMosaic-1.jpg",
+        "title": "The Heart of the Swan",
+        "text": "This massive 9 panel mosaic features the immense field of nebulosity in Cygnus constellation. It took dozens of hours to register and align the panels in place, and the final working file was almost 10 GB in size."
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/75-NGC6823-1.jpg",
+        "local": "media/uploads/2022/03/75-NGC6823-1.jpg",
+        "title": "Nebula in the Open Cluster",
+        "text": "The field of glowing hydrogen lies among an open cluster grouping of stars. It has a prominent and recognizable pillar, similar to the famous Pillars of Creation and the Spire in M16."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/76-M78.jpg",
+        "local": "media/uploads/2022/03/76-M78.jpg",
+        "title": "M78",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/77-LeoTriplet.jpg",
+        "local": "media/uploads/2022/03/77-LeoTriplet.jpg",
+        "title": "Leo's Triplet Galaxies",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/78-RosetteCore.jpg",
+        "local": "media/uploads/2022/03/78-RosetteCore.jpg",
+        "title": "Core of the Rosette Nebula",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/79-Horsehead.jpg",
+        "local": "media/uploads/2022/03/79-Horsehead.jpg",
+        "title": "The Horsehead Nebula",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/80A-NGC6888-Gold.jpg",
+        "local": "media/uploads/2022/03/80A-NGC6888-Gold.jpg",
+        "title": "NGC 6888 in Gold",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/80B-NGC6888-Aqua.jpg",
+        "local": "media/uploads/2022/03/80B-NGC6888-Aqua.jpg",
+        "title": "NGC 6888 in Aqua",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/80C-NGC6888-Rose.jpg",
+        "local": "media/uploads/2022/03/80C-NGC6888-Rose.jpg",
+        "title": "NGC 6888 in Pink",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/81-ThorsHelmet.jpg",
+        "local": "media/uploads/2022/03/81-ThorsHelmet.jpg",
+        "title": "Thor's Helmet",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/82-IC1318.jpg",
+        "local": "media/uploads/2022/03/82-IC1318.jpg",
+        "title": "IC 1318 Nebula Field",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/83-VeilNebula.jpg",
+        "local": "media/uploads/2022/03/83-VeilNebula.jpg",
+        "title": "Veil Nebula",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/84-BubbleNebula.jpg",
+        "local": "media/uploads/2022/03/84-BubbleNebula.jpg",
+        "title": "The Bubble Nebula",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/85-IC433.jpg",
+        "local": "media/uploads/2022/03/85-IC433.jpg",
+        "title": "IC 433 Nebula",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/86-NGC1333.jpg",
+        "local": "media/uploads/2022/03/86-NGC1333.jpg",
+        "title": "NGC 1333",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/87-PelicanNebula.jpg",
+        "local": "media/uploads/2022/03/87-PelicanNebula.jpg",
+        "title": "The Pelican Nebula",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/88-CaveNebula.jpg",
+        "local": "media/uploads/2022/03/88-CaveNebula.jpg",
+        "title": "The Cave Nebula",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/89-IrisNebula.jpg",
+        "local": "media/uploads/2022/03/89-IrisNebula.jpg",
+        "title": "The Iris Nebula",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/90-NGC1805.jpg",
+        "local": "media/uploads/2022/03/90-NGC1805.jpg",
+        "title": "NGC 1805 Nebula",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/91-NGC281.jpg",
+        "local": "media/uploads/2022/03/91-NGC281.jpg",
+        "title": "NGC 281",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/92-IC59.jpg",
+        "local": "media/uploads/2022/03/92-IC59.jpg",
+        "title": "IC 59",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/93-SH2-119Nebulosity.jpg",
+        "local": "media/uploads/2022/03/93-SH2-119Nebulosity.jpg",
+        "title": "SH2-119 Nebula",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/94-WizardNebula.jpg",
+        "local": "media/uploads/2022/03/94-WizardNebula.jpg",
+        "title": "The Wizard Nebula",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/95-ElephantTrunk.jpg",
+        "local": "media/uploads/2022/03/95-ElephantTrunk.jpg",
+        "title": "Elephant Trunk",
+        "text": "Elephant's Trunk in Full Spectrum Contrast was pushed to highlight the colors and structures in this famous nebula. A custom PixelMath blend was created to enhance the dark dust while maintaining a reddish background."
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/96-M51.jpg",
+        "local": "media/uploads/2022/03/96-M51.jpg",
+        "title": "M51 Whirlpool Galaxy",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/97-M16.jpg",
+        "local": "media/uploads/2022/03/97-M16.jpg",
+        "title": "The Eagle Nebula M16",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/98-IC405.jpg",
+        "local": "media/uploads/2022/03/98-IC405.jpg",
+        "title": "IC 405 Nebula",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/99-IC410.jpg",
+        "local": "media/uploads/2022/03/99-IC410.jpg",
+        "title": "IC 410 Nebula",
+        "text": ""
+      }
+    ]
+  },
+  "pier2": {
+    "gallery": [
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/12/58-VDB152.jpg",
+        "local": "media/uploads/2022/12/58-VDB152.jpg",
+        "title": "VDB 152",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/12/59-SH2132.jpg",
+        "local": "media/uploads/2022/12/59-SH2132.jpg",
+        "title": "SH2-132",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/12/60-M51.jpg",
+        "local": "media/uploads/2022/12/60-M51.jpg",
+        "title": "M51",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/61-SH2-224-FourPanel.jpg",
+        "local": "media/uploads/2022/03/61-SH2-224-FourPanel.jpg",
+        "title": "SH2 224 Four Panel",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/62-SH2-224-HOO-RedBlue.jpg",
+        "local": "media/uploads/2022/03/62-SH2-224-HOO-RedBlue.jpg",
+        "title": "SH2 224 HOO Red Blue",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/63-M16.jpg",
+        "local": "media/uploads/2022/03/63-M16.jpg",
+        "title": "The Eagle Nebula M16",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/64-IC140.jpg",
+        "local": "media/uploads/2022/03/64-IC140.jpg",
+        "title": "IC 140",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/65-SH2-232.jpg",
+        "local": "media/uploads/2022/03/65-SH2-232.jpg",
+        "title": "SH2 232",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/66-NGC1333.jpg",
+        "local": "media/uploads/2022/03/66-NGC1333.jpg",
+        "title": "NGC 1333",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/67-NGC6871-D-PSPush.jpg",
+        "local": "media/uploads/2022/03/67-NGC6871-D-PSPush.jpg",
+        "title": "NGC 6871 D PSPush",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/68-M81.jpg",
+        "local": "media/uploads/2022/03/68-M81.jpg",
+        "title": "M81",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/69-Horsehead.jpg",
+        "local": "media/uploads/2022/03/69-Horsehead.jpg",
+        "title": "Horsehead",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/70-Clamshell-SH2119-0.jpg",
+        "local": "media/uploads/2022/03/70-Clamshell-SH2119-0.jpg",
+        "title": "Clamshell SH2-119 0",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/71-SH2-155-Cave.jpg",
+        "local": "media/uploads/2022/03/71-SH2-155-Cave.jpg",
+        "title": "SH2 155 Cave",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/72-M42.jpg",
+        "local": "media/uploads/2022/03/72-M42.jpg",
+        "title": "M42",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/73-BatSquid.jpg",
+        "local": "media/uploads/2022/03/73-BatSquid.jpg",
+        "title": "Bat Squid",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/74-M101.jpg",
+        "local": "media/uploads/2022/03/74-M101.jpg",
+        "title": "M101",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/75-California.jpg",
+        "local": "media/uploads/2022/03/75-California.jpg",
+        "title": "California",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/76-Rosette.jpg",
+        "local": "media/uploads/2022/03/76-Rosette.jpg",
+        "title": "Rosette",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/77-VeilNebula.jpg",
+        "local": "media/uploads/2022/03/77-VeilNebula.jpg",
+        "title": "Veil Nebula",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/78-LeoTrio.jpg",
+        "local": "media/uploads/2022/03/78-LeoTrio.jpg",
+        "title": "Leo Trio",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/79-M45.jpg",
+        "local": "media/uploads/2022/03/79-M45.jpg",
+        "title": "M45",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/80-IC444.jpg",
+        "local": "media/uploads/2022/03/80-IC444.jpg",
+        "title": "IC 444",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/81-ThorsHelmet-2.jpg",
+        "local": "media/uploads/2022/03/81-ThorsHelmet-2.jpg",
+        "title": "Thors Helmet",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/82-HeartNebula.jpg",
+        "local": "media/uploads/2022/03/82-HeartNebula.jpg",
+        "title": "Heart Nebula",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/82B-HeartFishMosaic.jpg",
+        "local": "media/uploads/2022/03/82B-HeartFishMosaic.jpg",
+        "title": "Heart Fish Mosaic",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/83-M31.jpg",
+        "local": "media/uploads/2022/03/83-M31.jpg",
+        "title": "M31",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/84-IC1318-LessGreenGold.jpg",
+        "local": "media/uploads/2022/03/84-IC1318-LessGreenGold.jpg",
+        "title": "IC 1318 Less Green Gold",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/85-CrescentNebula.jpg",
+        "local": "media/uploads/2022/03/85-CrescentNebula.jpg",
+        "title": "Crescent Nebula",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/86-NGC7635.jpg",
+        "local": "media/uploads/2022/03/86-NGC7635.jpg",
+        "title": "NGC 7635",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/87-NGC7000.jpg",
+        "local": "media/uploads/2022/03/87-NGC7000.jpg",
+        "title": "NGC 7000",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/88-ElephantTrunk.jpg",
+        "local": "media/uploads/2022/03/88-ElephantTrunk.jpg",
+        "title": "Elephant Trunk",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/89-CaveNebula.jpg",
+        "local": "media/uploads/2022/03/89-CaveNebula.jpg",
+        "title": "Cave Nebula",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/90-XmasTree.jpg",
+        "local": "media/uploads/2022/03/90-XmasTree.jpg",
+        "title": "Xmas Tree",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/91-SH2119.jpg",
+        "local": "media/uploads/2022/03/91-SH2119.jpg",
+        "title": "SH2-119",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/92-IC59-2.jpg",
+        "local": "media/uploads/2022/03/92-IC59-2.jpg",
+        "title": "IC 59",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/93-WizardNebula.jpg",
+        "local": "media/uploads/2022/03/93-WizardNebula.jpg",
+        "title": "Wizard Nebula",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/94-M51.jpg",
+        "local": "media/uploads/2022/03/94-M51.jpg",
+        "title": "M51",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/95-ElephantTrunk-2.jpg",
+        "local": "media/uploads/2022/03/95-ElephantTrunk-2.jpg",
+        "title": "Elephant Trunk",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/96-M16Bright.jpg",
+        "local": "media/uploads/2022/03/96-M16Bright.jpg",
+        "title": "M16Bright",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/97-M101Galaxy.jpg",
+        "local": "media/uploads/2022/03/97-M101Galaxy.jpg",
+        "title": "M101Galaxy",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/98-IC405-2.jpg",
+        "local": "media/uploads/2022/03/98-IC405-2.jpg",
+        "title": "IC 405",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/99-IC410-2.jpg",
+        "local": "media/uploads/2022/03/99-IC410-2.jpg",
+        "title": "IC 410",
+        "text": ""
+      }
+    ]
+  },
+  "observatory": {
+    "gallery": [
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/img_7589-copy.jpg",
+        "local": "media/uploads/2022/03/img_7589-copy.jpg",
+        "title": "",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/Obs5.jpeg",
+        "local": "media/uploads/2022/03/Obs5.jpeg",
+        "title": "",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/Back.jpg",
+        "local": "media/uploads/2022/03/Back.jpg",
+        "title": "",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/IMG_7469.jpg",
+        "local": "media/uploads/2022/03/IMG_7469.jpg",
+        "title": "",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/IMG_1177.jpg",
+        "local": "media/uploads/2022/03/IMG_1177.jpg",
+        "title": "",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/IMG_1178.jpg",
+        "local": "media/uploads/2022/03/IMG_1178.jpg",
+        "title": "",
+        "text": ""
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/Scope.jpg",
+        "local": "media/uploads/2022/03/Scope.jpg",
+        "title": "",
+        "text": ""
+      }
+    ]
+  },
+  "about": {
+    "intro": [
+      "The Casa Stellare team is Jeff McFarlin, Jerry Smith, and Josh Lake.",
+      "We hope you enjoy the web site and hard work of the team in collecting and developing the data from our selections of galaxies, nebulae and other amazing and wonderful objects. We welcome you all and hope you will come back soon to see what is next!"
+    ],
+    "people": [
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/Jeff-e1646683445203.jpeg",
+        "local": "media/uploads/2022/03/Jeff-e1646683445203.jpeg",
+        "name": "Jeff",
+        "bio": "Jeff McFarlin, co-founder, owner and primary operator of Casa Stellare. He manages all technical aspects of the observatory, and runs the imaging sessions. He lives in northern Virginia with his wife and two kids, and by day works in I.T. Jeff began his serious astrophotography pursuits in 2009."
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/Jerry.png",
+        "local": "media/uploads/2022/03/Jerry.png",
+        "name": "Jerry",
+        "bio": "Jerry Smith, co-founder of Casa Stellare. Former Air Traffic Supervisor/Manager and Controller from Miami Air Route Traffic Control Center (ARTCC). Still works for FAA as Contractor (L3Harris) implementing Next Gen Data Communications between Pilots and Controllers."
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/Lake-Avatar-e1646683579557.png",
+        "local": "media/uploads/2022/03/Lake-Avatar-e1646683579557.png",
+        "name": "Josh",
+        "bio": "Josh is the Casa Stellare team\u2019s image processor. By day, Josh is a physics, engineering, and astronomy teacher at Pomfret School, a CT independent boarding school. He runs the Pomfret Olmsted Observatory and teaches students how to use PixInsight to process astrophotography. In 2012, Josh won the Public and Jury Prizes for the international Hubble\u2019s Hidden Treasures contest."
+      }
+    ]
+  },
+  "lake": {
+    "title": "N11 in the LMC : 10 Year Anniversary Image",
+    "credit": "Processing by Josh Lake in PixInsight and Photoshop\nData from the Hubble Legacy Archive",
+    "gallery": [
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/N11-Lake-2012.jpg",
+        "local": "media/uploads/2022/03/N11-Lake-2012.jpg",
+        "title": "N11 Lake 2012",
+        "text": "The original N11 field for the Hubble's Hidden Treasure Contest in 2012"
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/N11-Lake-2022.jpg",
+        "local": "media/uploads/2022/03/N11-Lake-2022.jpg",
+        "title": "N11 Lake 2022",
+        "text": "The 10th anniversary version with new coloring with special attention to denoising and detail"
+      },
+      {
+        "src": "https://casastellare.com/wp-content/uploads/2022/03/N11-ESA-2019.jpg",
+        "local": "media/uploads/2022/03/N11-ESA-2019.jpg",
+        "title": "N11 ESA 2019",
+        "text": "NASA / ESA's version of the same field using another filter and more polished data"
+      }
+    ]
+  }
+}
